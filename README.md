@@ -1,7 +1,7 @@
 # Estimativa de data de submissão de atividades em ambientes acadêmicos online
 Projeto Final da Disciplina de Aprendizado de Máquina do PPGTI - Aluno Michael Monteiro
 
-O projeto está contido em dois notebooks python, divididos em ETAPA 1 - Análise de Dados e ETAPA 2 - Tratamento de dados e aplicação dos modelos de aprendizado de máquina
+O projeto está contido em umn notebook Python que contém tratamento de dados e aplicação dos modelos de aprendizado de máquina.
 
 Os códigos estão divididos em diferentes passos do projeto: importação e mesclagem de dados, definição de variável target e one-hot encoding, análise de valores ausentes, tratamento de valores ausentes e outliers, separação de dados entre treinamento e teste, normalização dos dados, definição de função para monitoramento de recursos, definição de função para métricas de desempenho, definição de ajuste de nomes de variáveis, aplicação inicial de modelos de regressão, criação de dicionário para médias, retreino de modelos de regressão com métodos de seleção de features, método de seleção de top 15 variáveis mais importantes, método de seleção SelectKBest, método de seleção RFE, criação de dicionário para armazenamento de métricas, definição de buscas de hiperparâmetros, otimização de hiperparâmetros com Randomized Search, otimização de hiperparâmetros com Grid Search, otimização de hiperparâmetros com Otimização Bayesiana, criação de dataframes com os resultados finais, análise de resíduos.
 
